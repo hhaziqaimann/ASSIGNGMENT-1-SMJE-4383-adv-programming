@@ -1,0 +1,5 @@
+work explanation
+
+first we scrap data from internet and print in terminal
+After that we logged the data into CSV file that can be open using CSVBuddy
+Then after program complete we send the email to users by calling another python file that are made to send mail which are sendmail.py into the main python file whice are assignment1.py
